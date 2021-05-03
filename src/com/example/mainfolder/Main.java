@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("By Noah Albrecht");
         System.out.println("Enter first Number:");
         Scanner userinput = new Scanner(System.in);
         Integer firstnum = Integer.parseInt(userinput.nextLine());
