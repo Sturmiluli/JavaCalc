@@ -98,6 +98,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620064262175">
@@ -108,22 +109,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1620065045280" />
-    <state width="1493" height="660" key="GridCell.Tab.0.bottom" timestamp="1620069226917">
+    <state width="1493" height="660" key="GridCell.Tab.0.bottom" timestamp="1620142352276">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="660" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1620069226917" />
-    <state width="1493" height="660" key="GridCell.Tab.0.center" timestamp="1620069226917">
+    <state width="1493" height="660" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1620142352276" />
+    <state width="1493" height="660" key="GridCell.Tab.0.center" timestamp="1620142352276">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="660" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1620069226917" />
-    <state width="1493" height="660" key="GridCell.Tab.0.left" timestamp="1620069226917">
+    <state width="1493" height="660" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1620142352276" />
+    <state width="1493" height="660" key="GridCell.Tab.0.left" timestamp="1620142352276">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="660" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1620069226917" />
-    <state width="1493" height="660" key="GridCell.Tab.0.right" timestamp="1620069226917">
+    <state width="1493" height="660" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1620142352276" />
+    <state width="1493" height="660" key="GridCell.Tab.0.right" timestamp="1620142352276">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="660" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1620069226917" />
+    <state width="1493" height="660" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1620142352276" />
     <state x="249" y="7" key="SettingsEditor" timestamp="1620065045969">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
